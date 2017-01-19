@@ -1,2 +1,2 @@
 # zhangxTest1
-Only FOr Test
+例子用C读写文件和C++读写文件
